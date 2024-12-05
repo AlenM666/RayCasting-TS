@@ -3,7 +3,7 @@
 <br>
 
 <br>
-Try it ---> https://vercel.com/alenm666s-projects/ray-casting-ts
+Try it ---> https://ray-casting-ts.vercel.app/
 
 <br><br>
 
